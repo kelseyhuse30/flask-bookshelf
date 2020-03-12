@@ -14,6 +14,7 @@
 - [Example Glitch project](https://veil-look.glitch.me/posts/2019-books/#how-to-books)
 - [Python read CSV](https://docs.python.org/3/library/csv.html)
 - [Open Library Covers API](https://openlibrary.org/dev/docs/api/covers)
+- [Mega Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 To install dependencies:
 `pipenv install <package>`
