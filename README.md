@@ -15,6 +15,8 @@
 - [Python read CSV](https://docs.python.org/3/library/csv.html)
 - [Open Library Covers API](https://openlibrary.org/dev/docs/api/covers)
 - [Mega Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Docker Project Walkthrough](https://circleci.com/docs/2.0/project-walkthrough/)
+- [CircleCI Demo Python Flask](https://github.com/CircleCI-Public/circleci-demo-python-flask)
 
 To install dependencies:
 `pipenv install <package>`
