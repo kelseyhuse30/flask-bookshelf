@@ -17,6 +17,7 @@
 - [Mega Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Docker Project Walkthrough](https://circleci.com/docs/2.0/project-walkthrough/)
 - [CircleCI Demo Python Flask](https://github.com/CircleCI-Public/circleci-demo-python-flask)
+- [CircleCI Deploy with the Heroku Orb](https://circleci.com/docs/2.0/deployment-examples/#deploy-with-the-heroku-orb)
 - [Deploy Python Flask app with Heroku](https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0) 
 
 
