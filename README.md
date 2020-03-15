@@ -18,8 +18,12 @@
 - [Docker Project Walkthrough](https://circleci.com/docs/2.0/project-walkthrough/)
 - [CircleCI Demo Python Flask](https://github.com/CircleCI-Public/circleci-demo-python-flask)
 
+
 To install dependencies:
-`pipenv install <package>`
+1. Start the virtual environment
+  `python3 -m venv venv`
+2. Install
+  `pipenv install -r requirements.txt`
 
 Export Goodreads Reviews:
 Go to https://www.goodreads.com/review/import

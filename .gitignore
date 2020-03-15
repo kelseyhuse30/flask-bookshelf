@@ -110,7 +110,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-flask-bookshelf
 
 # Spyder project settings
 .spyderproject
