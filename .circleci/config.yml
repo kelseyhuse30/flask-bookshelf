@@ -1,16 +1,19 @@
+version: 2.1
+
+orbs:
+  heroku: circleci/heroku@x.y
+
 workflows:
-  version: 2
-  build-deploy:
+  heroku_deploy:
     jobs:
       - build
-      - deploy:
+      - heroku/deploy-via-git
           requires:
-            - build
+            - build # only run deploy-via-git job if the build job has completed
           filters:
             branches:
-              only: master
+              only: master # only run deploy-via-git job on master branch
 
-version: 2
 jobs:
   build:
     docker:
